@@ -1,1 +1,4 @@
 # API-Chuck-norris
+Essa foi uma atividade avaliativa que eu tive,em que o rpofessor mandou varias api´s para os alunos e cada um tinha que fazer um mini site com a api funcionando,e no meu caso foi uma api do chuck norris que gera piadas(confesso que não gostei da api que eu recebi,porque não tinha muitas ideias de design para sites sobre isso)porém eu consegui fazer usando um pouco de JS e com um design básico do site
+//
+This was an assessment activity that I had, in which the professor sent several APIs to the students and each one had to create a mini website with the API working, and in my case it was a Chuck Norris API that generates jokes (I confess I didn't like the api I received, because I didn't have many website design ideas about it) but I managed to do it using a little JS and a basic website design
